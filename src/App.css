@@ -1,0 +1,23 @@
+
+a{
+    color: aliceblue;
+}
+
+h3{
+    font-size: 1rem; 
+}
+
+
+.my-0{
+    border-style: double;
+    padding: 10px;
+}
+
+.mr-3{
+    border-style: double;
+    padding: 10px;
+}
+
+.bi-trash{
+    cursor: pointer;
+}
